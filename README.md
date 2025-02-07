@@ -6,9 +6,9 @@
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| SQL       |
-|     2| R         |
-|     3| Python    |
+|     1| Python    |
+|     2| SQL       |
+|     3| R         |
 
 </details>
 
@@ -18,8 +18,8 @@
 | Rank | Topics                         |
 |-----:|--------------------------------|
 |     1| Foreign Aid & Economic Growth  |
-|     2| International Relations: War   |
-|     3| U.S. Government Spending       |
+|     2| Corruption & the Global Economy|
+|     3| Development and AI             |
 
 </details>
 
@@ -28,9 +28,9 @@
 
 | Rank | Hobbies   |
 |-----:|-----------|
-|     1| Reading   |
-|     2| Tennis    |
-|     3| Painting  |
+|     1| Reading (John Steinbeck 📕) |
+|     2| Surfing (Ethan Ewing 🏄)    |
+|     3| Painting (John Constable 🎨)|
 
 </details>
 
